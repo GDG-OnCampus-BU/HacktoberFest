@@ -1,6 +1,7 @@
 # HacktoberFest
 ### This repo contains a list of projects proposed for Hacktober fest being organised by Google Developers Group on Campus: Bennett University
 All these projects can be fairly complex in their architecture but to start with them, **you can pick `good first` issues which are meant for beginners.**
+Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee/gdgbu_).
 ## Hacktober 2024
 ### Projects
 - [GDG BU Landing page](https://github.com/GDG-OnCampus-BU/landing-page-WIP) maintained by @g4ze
