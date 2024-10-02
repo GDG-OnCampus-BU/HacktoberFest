@@ -1,3 +1,7 @@
+![gdg-bu](https://github.com/user-attachments/assets/4fe7eb0e-9aa9-4245-adcb-26eb59f3ab43)
+
+        
+                                                                    
 # HacktoberFest
 ### This repo contains a list of projects proposed for Hacktober fest being organised by Google Developers Group on Campus: Bennett University
 All these projects can be fairly complex in their architecture but to start with them, **you can pick `good first` issues which are meant for beginners.**
