@@ -9,7 +9,7 @@ All these projects can be fairly complex in their architecture but to start with
 Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee/gdgbu_).
 ## Hacktober 2024
 ### Projects
-- [GDG BU Landing page](https://github.com/GDG-OnCampus-BU/landing-page-WIP) maintained by @g4ze
+- [GDG BU Landing page](https://github.com/GDG-OnCampus-BU/landing-page-WIP) maintained by @g4ze from [GDG BU](https://github.com/GDG-OnCampus-BU)
   -  Nextjs, tailwind and javascript. Easy.
 
 - [Cal-Buddy](https://github.com/ChiragAgg5k/cal-buddy) maintained by @ChiragAgg5k
@@ -21,5 +21,9 @@ Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee
 - [Booksuno](https://github.com/anonthedev/booksuno) maintained by @anonthedev
   -  Nextjs, tailwind and typescript. Midium.
 
+- [AI Society BU](https://github.com/bennettai/aisociety-bu) maintained by @samakshty from [AIS BU](https://github.com/bennettai)
+  -  Next JS, Typescript, Tailwind. Medium.
+
 
 Add your project [here](https://forms.gle/TdxM1DVezYUnUTMs6)!
+If you have started contributing, pls fill your contributions [here](https://docs.google.com/forms/d/e/1FAIpQLScIpfyVDwNkJvbI3e_Xu3MxKbfr9OK_ac-i_VPpDS2Z2B-CiQ/viewform?usp=sf_link).
