@@ -23,6 +23,9 @@ Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee
 
 - [AI Society BU](https://github.com/bennettai/aisociety-bu) maintained by @samakshty from [AIS BU](https://github.com/bennettai)
   -  Next JS, Typescript, Tailwind. Medium.
+ 
+- [Snap-N-Score](https://github.com/Mobilon-Mobile-Technologies/Snap-N-Score) maintained by @rakshitkapoor from [Mobilon-Mobile-Technologies](https://github.com/Mobilon-Mobile-Technologies)
+  -  Flutter, Supabase, Dart. Easy.
 
 
 Add your project [here](https://forms.gle/TdxM1DVezYUnUTMs6)!
