@@ -1,6 +1,5 @@
-![gdg-bu](https://github.com/user-attachments/assets/4fe7eb0e-9aa9-4245-adcb-26eb59f3ab43)
+![Hacktober Fest](https://github.com/user-attachments/assets/b548f22a-fdc9-4f71-80e0-1d5a9d8e69dd)
 
-        
                                                                     
 # HacktoberFest
 ### This repo contains a list of projects proposed for Hacktober fest being organised by Google Developers Group on Campus: Bennett University
