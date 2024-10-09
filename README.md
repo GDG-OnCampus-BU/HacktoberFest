@@ -8,7 +8,7 @@ All these projects can be fairly complex in their architecture but to start with
 Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee/gdgbu_).
 ## Hacktober 2024
 ### Projects
-- [IntelOwl](https://github.com/intelowlproject/IntelOwl) maintained by @drosetti
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) maintained by @drosetti from [IntelOwl](https://github.com/intelowlproject), Honeynet, Google summer of code.
   -  Docker, Python, ReactJS, Django framework, Celery, PostgreSQL, ElasticSearch, Nginx, Uwsgi, Daphne, RabbitMQ/SQS/Redis. Hard.
 - [GDG BU Landing page](https://github.com/GDG-OnCampus-BU/landing-page-WIP) maintained by @g4ze from [GDG BU](https://github.com/GDG-OnCampus-BU)
   -  Nextjs, tailwind and javascript. Easy.
