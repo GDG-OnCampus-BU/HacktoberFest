@@ -26,6 +26,9 @@ Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee
 - [Snap-N-Score](https://github.com/Mobilon-Mobile-Technologies/Snap-N-Score) maintained by @rakshitkapoor from [Mobilon-Mobile-Technologies](https://github.com/Mobilon-Mobile-Technologies)
   -  Flutter, Supabase, Dart. Easy.
 
+- [Curse_Cloak](https://github.com/vignesh1507/Curse_Cloak) maintained by @bhvym-sudo
+  -  Javascript, Python. Midium.
+
 
 Add your project [here](https://forms.gle/TdxM1DVezYUnUTMs6)!
 If you have started contributing, pls fill your contributions [here](https://docs.google.com/forms/d/e/1FAIpQLScIpfyVDwNkJvbI3e_Xu3MxKbfr9OK_ac-i_VPpDS2Z2B-CiQ/viewform?usp=sf_link).
