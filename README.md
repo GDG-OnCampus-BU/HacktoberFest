@@ -1,7 +1,7 @@
 ![Hacktober Fest](https://github.com/user-attachments/assets/b548f22a-fdc9-4f71-80e0-1d5a9d8e69dd)
 
                                                                     
-# HacktoberFest
+# ankit barnawal
 ### This repo contains a list of projects proposed for Hacktober fest being organised by Google Developers Group on Campus: Bennett University
 All these projects can be fairly complex in their architecture but to start with them, **you can pick `good first` issues which are meant for beginners.**
 ### Editing minor spelling/readme/typos in a project isin't considered a good contribution and is a bad practice, kindly avoid until you're refactoring entire documentaion of a project :)
