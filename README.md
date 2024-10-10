@@ -2,7 +2,7 @@
 
                                                                     
 # HacktoberFest
-### This repo contains a list of projects proposed for Hacktober fest being organised by Google Developers Group on Campus: Bennett University
+### This repo contains a list of projects proposed for Hacktober fest and it is being organised by Google Developers Group on Campus: Bennett University
 All these projects can be fairly complex in their architecture but to start with them, **you can pick `good first` issues which are meant for beginners.**
 ### Editing minor spelling/readme/typos in a project isin't considered a good contribution and is a bad practice, kindly avoid until you're refactoring entire documentaion of a project :)
 Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee/gdgbu_).
