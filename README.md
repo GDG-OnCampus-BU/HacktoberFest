@@ -20,7 +20,7 @@ Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee
   -  Nextjs, Ts, Golang, AWS SDK, Postgres, Docker. Hard.
 
 - [Booksuno](https://github.com/anonthedev/booksuno) maintained by @anonthedev
-  -  Nextjs, tailwind and typescript. Midium.
+  -  Nextjs, tailwind and typescript. Medium.
 
 - [AI Society BU](https://github.com/bennettai/aisociety-bu) maintained by @samakshty from [AIS BU](https://github.com/bennettai)
   -  Next JS, Typescript, Tailwind. Medium.
