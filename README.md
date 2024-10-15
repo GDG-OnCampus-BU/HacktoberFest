@@ -30,7 +30,10 @@ Contact us through whatsapp channels/Linkedin/Instagram [here](https://linktr.ee
 
 - [Curse_Cloak](https://github.com/vignesh1507/Curse_Cloak) maintained by @bhvym-sudo
   -  Javascript, Python. Midium.
+- [PaiseKaHisab](https://github.com/vaibhavkothari33/PaiseKaHisab) maintained by @vaibhavkothari33
+  -  HTML ,CSS,JS,tailwind,chart.js. Easy.  
 
 
 Add your project [here](https://forms.gle/TdxM1DVezYUnUTMs6)!
+
 If you have started contributing, pls fill your contributions [here](https://docs.google.com/forms/d/e/1FAIpQLScIpfyVDwNkJvbI3e_Xu3MxKbfr9OK_ac-i_VPpDS2Z2B-CiQ/viewform?usp=sf_link).
